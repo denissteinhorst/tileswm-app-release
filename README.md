@@ -1,4 +1,6 @@
-![TilesWM Logo](./TilesWmAppIcon.png)
+<p align="left">
+  <img src="./TilesWmAppIcon.png" alt="TilesWM Logo" width="128" height="128" />
+</p>
 
 # TilesWM — Window Manager for macOS
 
